@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Lucas Valadão 👋
 
-<!--
-**ValadaoLucas/ValadaoLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Who am I?
+🧑‍💻I'm a brazilian journalist, currently studying web development at [Rocketseat](https://rocketseat.com.br/)🚀
 
-Here are some ideas to get you started:
+#### Current Stack
+🌐Languages: ´HTML´, `CSS`, `JavaScript`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏷️Verson code control: `Git & Github`
+
+🔨Tools: `VsCode`
+
+#### Contacts 
+📧 Email: lucasdeassisvaladao@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-valad%C3%A3o/
