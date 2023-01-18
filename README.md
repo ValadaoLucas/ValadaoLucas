@@ -6,7 +6,7 @@
 #### Current Stack
 🌐Languages: `HTML`, `CSS`, `JavaScript`
 
-🏷️Verson code control: `Git & Github`
+🏷️Version code control: `Git & Github`
 
 🔨Tools: `VsCode`
 
