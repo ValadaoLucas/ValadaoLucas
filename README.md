@@ -4,7 +4,7 @@
 🧑‍💻I'm a brazilian journalist, currently studying web development at [Rocketseat](https://rocketseat.com.br/)🚀
 
 #### Current Stack
-🌐Languages: ´HTML´, `CSS`, `JavaScript`
+🌐Languages: `HTML`, `CSS`, `JavaScript`
 
 🏷️Verson code control: `Git & Github`
 
